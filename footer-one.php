@@ -7,8 +7,6 @@
       <p class="foot-slogan">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. </p>
     </div>
     <?php wp_nav_menu('footer-one'); ?>
-    <?php wp_nav_menu('footer-two'); ?>
-    <?php wp_nav_menu('footer-three'); ?>
   </div>
   <div class="copyright">
     <p>Всички права запазени © <?php echo date("Y"); ?>.</p>
