@@ -4,7 +4,7 @@
       <a href="<?php echo site_url(); ?>" class="custom-logo-link" rel="home" itemprop="url">
         <img src="<?php echo get_template_directory_uri(); ?>/img/header_one.png" class="custom-logo" alt="Satelit" itemprop="logo">
       </a>
-      <p class="foot-slogan">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. </p>
+      <p class="foot-slogan"></p>
     </div>
     <?php wp_nav_menu('footer-one'); ?>
   </div>
